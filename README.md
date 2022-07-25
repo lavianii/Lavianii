@@ -1,7 +1,7 @@
 ### Olá! Me chamo Jonas S. Laviani 👋
 
 - 📚 Estou estudando no Colégio Técnico de Campinas (COTUCA - Unicamp)
-- 💻 Estudando as Linguagens: Java, Python e JavaScript
+- 💻 Estudando as Linguagens: Java e JavaScript
 
 
 <div align="center">
