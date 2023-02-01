@@ -1,7 +1,7 @@
 ### Olá! Me chamo Jonas S. Laviani 👋
 
 - 📚 Estou estudando no Colégio Técnico de Campinas (COTUCA - Unicamp)
-- 💻 Estudando: Java, ReactJs e JavaScript
+- 💻 Estudando: Html, Css, JavaScript, React.Js e Java 
 
 
 <div align="center">
