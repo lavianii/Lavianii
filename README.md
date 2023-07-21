@@ -1,7 +1,6 @@
 ### Olá! Me chamo Jonas S. Laviani 👋
 
 - 📚 Estou cursando Análise e Desenvolvimento de Sistemas
-- 💻 Estudando: Html, Css, JavaScript, React.Js e Java 
 
 
 <div align="center">
