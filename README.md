@@ -13,6 +13,11 @@
   <a href="https://www.linkedin.com/in/jonas-soares-laviani-a97443207/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
 
+<br/>
+
+- <h3>Tecnologias que costumo utilizar 🫡 </h3>
+
+
 | Skill   | Technologies |
 |---------|--------------|
 | Backend | <img alt="C Sharp" src="https://img.shields.io/badge/-C_Sharp-512BD4?style=flat-square&logo=c-sharp&logoColor=white" /> <img alt=".NET" src="https://img.shields.io/badge/-.NET-5C2D91?style=flat-square&logo=dotnet&logoColor=white" /> |
